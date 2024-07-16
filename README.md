@@ -9,7 +9,7 @@ Evaluation pipeline: [lm-evaluation-harness](https://github.com/caisa-lab/lm-eva
 
 Model files: [huggingface_page](https://huggingface.co/lamarr-org) under the Models tab, `lamarr-org/2.7B_language` for all monolingual models, and `lamarr-org/2.7B_ENDEFRITES` for the multilingual model.
 
-Model training framework: [Megatron-LM]([https://huggingface.co/lamarr-org](https://github.com/OpenGPTX/Megatron-LM ))
+Model training framework: [Megatron-LM](https://github.com/OpenGPTX/Megatron-LM)
 
 Evaluation Datasets: [huggingface_page](https://huggingface.co/lamarr-org) under the Datasets tab, `lamarr-org/bbq_language_reformulated` for [bbq dataset](https://arxiv.org/pdf/2110.08193), and `lamarr-org/crows_pairs_language` for [crows pair dataset](https://aclanthology.org/2020.emnlp-main.154.pdf). 
 
